@@ -12,6 +12,7 @@
 ![gambar 1](2.png)
 
 berikut script javanya
+Person.java
 
 ```java
 public class Person {
@@ -21,7 +22,7 @@ public class Person {
 }
 ```
 
-selanjutnya membuat java baru
+selanjutnya membuat java baru dengan nama Latihan1person.java
 
 ```java
 public class Latihan1person {
@@ -50,4 +51,4 @@ public class Latihan1person {
 
 <p> Maka hasil outputnya adalah<p>
 
-![gambar 2](1.png)
+![gambar 2](1.PNG)
